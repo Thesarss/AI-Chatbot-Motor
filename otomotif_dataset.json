@@ -1,0 +1,4002 @@
+[
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Lampu sein nyala cepet banget kedipnya.",
+    "response": "Velg atau ban ga balance, coba spooring atau cek bearing roda."
+  },
+  {
+    "instruction": "Shockbreaker belakang keras banget, ga nyaman bro.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Stang motor gua goyang pas ngebut, bahaya ga tuh?",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Ban motor sering kempes padahal baru ditambal.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Busi basah atau aki lemah sering bikin susah starter."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Coba cek setelan langsam sama karburator, bisa jadi kotor."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Kabel speedometer putus atau gearbox speedo rusak."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Anjir, motor gua sering mati sendiri pas lampu merah.",
+    "response": "Kemungkinan kampas rem udah tipis, coba cek master rem juga."
+  },
+  {
+    "instruction": "Klakson motor jadi kecil banget suaranya.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Aki motor gua cepet banget soak.",
+    "response": "Itu biasanya karbu kotor atau busi udah lemah, coba bersihin karbu dan ganti busi."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Coy, motor gue kalau digas malah batuk-batuk, napa ya?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Bro, rantai motor bunyi kletek-kletek, ganggu banget.",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Itu tandanya flasher sein rusak, coba ganti yang baru."
+  },
+  {
+    "instruction": "Motor gua kalo dipake jauh mesinnya cepet panas banget.",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Woi, lampu motor gua sering putus mulu, napa ya?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  },
+  {
+    "instruction": "Rem belakang bunyi cit-cit pas diinjek, wajar ga?",
+    "response": "Asap putih tebel biasanya tanda oli ikut kebakar, bisa karena ring piston aus."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Shockbreaker bisa bocor oli, coba ganti seal atau shocknya."
+  },
+  {
+    "instruction": "Speedometer motor gua mati total.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Kalau mesin cepat panas, cek oli mesin sama sistem pendinginan."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Ban bisa ada bocor halus, mending ganti karet dalem atau periksa velg."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Cek engine mounting dan karet penahan mesin."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Aki soak, kiprok rusak, atau sistem cas ga jalan."
+  },
+  {
+    "instruction": "Kenapa motor ane susah banget dihidupin pas pagi?",
+    "response": "Rantai kendor atau aus, coba stel ulang atau ganti baru."
+  },
+  {
+    "instruction": "Tangki bocor tipis, bensin suka netes-netes.",
+    "response": "Coba periksa kabel gas, mungkin seret atau udah aus."
+  },
+  {
+    "instruction": "Suara mesin motor jadi kasar, kaya ada yang longgar.",
+    "response": "Aki lemah bikin klakson kecil, coba isi ulang atau ganti."
+  },
+  {
+    "instruction": "Bro, motor gua ngerem kok dalem banget ya, kaya ga pakem?",
+    "response": "Tangki karatan, coba tambal atau ganti."
+  },
+  {
+    "instruction": "Gas motor gue berat banget ditariknya.",
+    "response": "Biasanya karena kampas rem kena debu atau kotor, coba bersihin."
+  },
+  {
+    "instruction": "Motor gua geter parah pas di gas tinggi.",
+    "response": "Suara kasar bisa karena klep longgar, coba setel klep."
+  },
+  {
+    "instruction": "Bang, knalpot motor ane ngeluarin asap putih tebel, normal ga?",
+    "response": "Kelistrikan motor bisa bermasalah, cek sekring sama kiprok."
+  }
+]
