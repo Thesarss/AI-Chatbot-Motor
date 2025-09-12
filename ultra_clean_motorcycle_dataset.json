@@ -1,0 +1,2216 @@
+[
+  {
+    "id": "engine_001",
+    "category": "Mesin",
+    "problem": "Piston dan ring piston aus",
+    "symptoms": ["kompresi lemah", "asap putih", "oli cepat habis", "tenaga berkurang", "mesin brebet"],
+    "severity": "berat",
+    "possible_causes": [
+      {
+        "cause": "Ring piston aus atau patah",
+        "probability": "tinggi",
+        "difficulty": "berat",
+        "estimated_cost": "500000-1500000",
+        "repair_time": "4-8 jam"
+      },
+      {
+        "cause": "Piston aus atau baret",
+        "probability": "tinggi",
+        "difficulty": "berat",
+        "estimated_cost": "800000-2000000",
+        "repair_time": "6-10 jam"
+      }
+    ],
+    "solutions": ["Ganti ring piston", "Ganti piston", "Boring silinder jika perlu"],
+    "tools_needed": ["Kunci ring", "Piston ring compressor", "Micrometer"],
+    "keywords": ["piston", "ring", "kompresi", "aus", "bocor"]
+  },
+  {
+    "id": "engine_002",
+    "category": "Mesin",
+    "problem": "Blok silinder baret atau overheat",
+    "symptoms": ["mesin overheat", "air radiator berkurang", "oli bercampur air", "asap putih tebal"],
+    "severity": "berat",
+    "possible_causes": [
+      {
+        "cause": "Silinder baret parah",
+        "probability": "tinggi",
+        "difficulty": "berat",
+        "estimated_cost": "1000000-3000000",
+        "repair_time": "8-12 jam"
+      },
+      {
+        "cause": "Head gasket bocor",
+        "probability": "sedang",
+        "difficulty": "sedang",
+        "estimated_cost": "300000-800000",
+        "repair_time": "3-5 jam"
+      }
+    ],
+    "solutions": ["Boring silinder", "Ganti liner silinder", "Ganti head gasket"],
+    "tools_needed": ["Boring machine", "Micrometer", "Torque wrench"],
+    "keywords": ["blok", "silinder", "baret", "overheat", "bocor"]
+  },
+  {
+    "id": "engine_003",
+    "category": "Mesin",
+    "problem": "Klep atau valve bermasalah",
+    "symptoms": ["mesin kasar", "tenaga kurang", "suara kletek dari atas", "idle tidak stabil"],
+    "severity": "sedang",
+    "possible_causes": [
+      {
+        "cause": "Klep longgar atau tidak setel",
+        "probability": "tinggi",
+        "difficulty": "sedang",
+        "estimated_cost": "150000-400000",
+        "repair_time": "2-3 jam"
+      },
+      {
+        "cause": "Klep aus atau bengkok",
+        "probability": "sedang",
+        "difficulty": "berat",
+        "estimated_cost": "400000-1000000",
+        "repair_time": "4-6 jam"
+      }
+    ],
+    "solutions": ["Setel klep", "Ganti klep", "Grinding valve seat"],
+    "tools_needed": ["Feeler gauge", "Valve grinding tool", "Kunci pas"],
+    "keywords": ["klep", "valve", "longgar", "setel", "kasar"]
+  },
+  {
+    "id": "engine_004",
+    "category": "Mesin",
+    "problem": "Noken as atau camshaft bermasalah",
+    "symptoms": ["timing meleset", "mesin tidak bertenaga", "suara kasar dari atas", "klep tidak buka tutup normal"],
+    "severity": "berat",
+    "possible_causes": [
+      {
+        "cause": "Noken as aus",
+        "probability": "tinggi",
+        "difficulty": "berat",
+        "estimated_cost": "800000-2000000",
+        "repair_time": "6-8 jam"
+      },
+      {
+        "cause": "Timing chain kendor atau putus",
+        "probability": "sedang",
+        "difficulty": "sedang",
+        "estimated_cost": "300000-700000",
+        "repair_time": "3-5 jam"
+      }
+    ],
+    "solutions": ["Ganti noken as", "Setel timing", "Ganti timing chain"],
+    "tools_needed": ["Timing light", "Camshaft bearing puller", "Torque wrench"],
+    "keywords": ["noken", "camshaft", "timing", "aus", "meleset"]
+  },
+  {
+    "id": "engine_005",
+    "category": "Mesin",
+    "problem": "Bantalan kruk as bermasalah",
+    "symptoms": ["bunyi kasar dari bawah mesin", "getaran berlebih", "oli metal", "mesin tidak halus"],
+    "severity": "berat",
+    "possible_causes": [
+      {
+        "cause": "Bearing kruk as aus",
+        "probability": "tinggi",
+        "difficulty": "berat",
+        "estimated_cost": "1000000-2500000",
+        "repair_time": "8-12 jam"
+      },
+      {
+        "cause": "Kruk as bengkok",
+        "probability": "sedang",
+        "difficulty": "berat",
+        "estimated_cost": "1500000-3000000",
+        "repair_time": "10-15 jam"
+      }
+    ],
+    "solutions": ["Ganti bearing kruk as", "Grinding kruk as", "Ganti kruk as"],
+    "tools_needed": ["Bearing puller", "Micrometer", "Grinding machine"],
+    "keywords": ["kruk", "bearing", "bantalan", "kasar", "aus"]
+  },
+  {
+    "id": "ignition_001",
+    "category": "Pengapian",
+    "problem": "Busi bermasalah",
+    "symptoms": ["susah start", "mesin brebet", "tenaga kurang", "boros bensin", "idle tidak stabil"],
+    "severity": "ringan",
+    "possible_causes": [
+      {
+        "cause": "Busi kotor atau kerak",
+        "probability": "tinggi",
+        "difficulty": "ringan",
+        "estimated_cost": "50000-150000",
+        "repair_time": "15-30 menit"
+      },
+      {
+        "cause": "Celah busi tidak sesuai",
+        "probability": "sedang",
+        "difficulty": "ringan",
+        "estimated_cost": "0-50000",
+        "repair_time": "10-15 menit"
+      },
+      {
+        "cause": "Busi aus atau retak",
+        "probability": "sedang",
+        "difficulty": "ringan",
+        "estimated_cost": "50000-200000",
+        "repair_time": "15-30 menit"
+      }
+    ],
+    "solutions": ["Bersihkan busi", "Setel celah busi", "Ganti busi baru"],
+    "tools_needed": ["Kunci busi", "Feeler gauge", "Sikat kawat"],
+    "keywords": ["busi", "kotor", "aus", "celah", "retak"]
+  },
+  {
+    "id": "ignition_002",
+    "category": "Pengapian",
+    "problem": "Koil pengapian lemah",
+    "symptoms": ["api busi lemah", "susah start", "mesin mati mendadak", "tenaga drop"],
+    "severity": "sedang",
+    "possible_causes": [
+      {
+        "cause": "Koil pengapian rusak",
+        "probability": "tinggi",
+        "difficulty": "sedang",
+        "estimated_cost": "200000-500000",
+        "repair_time": "1-2 jam"
+      },
+      {
+        "cause": "Kabel koil putus atau korosi",
+        "probability": "sedang",
+        "difficulty": "ringan",
+        "estimated_cost": "50000-150000",
+        "repair_time": "30-60 menit"
+      }
+    ],
+    "solutions": ["Ganti koil pengapian", "Perbaiki kabel koil", "Bersihkan terminal"],
+    "tools_needed": ["Multimeter", "Kunci pas", "Obeng"],
+    "keywords": ["koil", "pengapian", "lemah", "panas", "rusak"]
+  },
+  {
+    "id": "ignition_003",
+    "category": "Pengapian",
+    "problem": "CDI atau ECU bermasalah",
+    "symptoms": ["tidak ada percikan api", "mesin mati total", "starter hidup tapi tidak nyala"],
+    "severity": "berat",
+    "possible_causes": [
+      {
+        "cause": "CDI/ECU rusak",
+        "probability": "tinggi",
+        "difficulty": "sedang",
+        "estimated_cost": "300000-800000",
+        "repair_time": "1-3 jam"
+      },
+      {
+        "cause": "Kabel CDI putus",
+        "probability": "sedang",
+        "difficulty": "ringan",
+        "estimated_cost": "50000-200000",
+        "repair_time": "30-90 menit"
+      }
+    ],
+    "solutions": ["Ganti CDI/ECU", "Perbaiki kabel", "Cek koneksi"],
+    "tools_needed": ["Multimeter", "Obeng", "Kabel jumper"],
+    "keywords": ["cdi", "ecu", "percikan", "rusak", "mati"]
+  },
+  {
+    "id": "ignition_004",
+    "category": "Pengapian",
+    "problem": "Pulser sensor rusak",
+    "symptoms": ["percikan tidak stabil", "rpm naik turun", "mesin kadang mati"],
+    "severity": "sedang",
+    "possible_causes": [
+      {
+        "cause": "Sensor pulser kotor atau rusak",
+        "probability": "tinggi",
+        "difficulty": "sedang",
+        "estimated_cost": "150000-400000",
+        "repair_time": "1-2 jam"
+      }
+    ],
+    "solutions": ["Bersihkan sensor", "Ganti pulser sensor", "Cek jarak sensor"],
+    "tools_needed": ["Multimeter", "Feeler gauge", "Obeng"],
+    "keywords": ["pulser", "sensor", "percikan", "stabil", "rpm"]
+  },
+  {
+    "id": "lubrication_001",
+    "category": "Pelumasan",
+    "problem": "Filter oli mampet",
+    "symptoms": ["oli kotor cepat", "mesin kasar", "tekanan oli rendah", "lampu oli nyala"],
+    "severity": "sedang",
+    "possible_causes": [
+      {
+        "cause": "Filter oli tersumbat kotoran",
+        "probability": "tinggi",
+        "difficulty": "ringan",
+        "estimated_cost": "50000-150000",
+        "repair_time": "30-60 menit"
+      }
+    ],
+    "solutions": ["Ganti filter oli", "Ganti oli mesin", "Bersihkan saluran oli"],
+    "tools_needed": ["Kunci filter oli", "Wadah oli bekas", "Kunci drain"],
+    "keywords": ["filter", "oli", "mampet", "kotor", "tersumbat"]
+  },
+  {
+    "id": "lubrication_002",
+    "category": "Pelumasan",
+    "problem": "Pompa oli lemah",
+    "symptoms": ["sirkulasi oli tidak lancar", "mesin panas berlebih", "bunyi kasar", "oli tidak naik"],
+    "severity": "berat",
+    "possible_causes": [
+      {
+        "cause": "Pompa oli aus atau rusak",
+        "probability": "tinggi",
+        "difficulty": "berat",
+        "estimated_cost": "400000-1000000",
+        "repair_time": "3-5 jam"
+      }
+    ],
+    "solutions": ["Ganti pompa oli", "Service pompa oli", "Cek saluran oli"],
+    "tools_needed": ["Kunci ring", "Gasket baru", "Oli mesin"],
+    "keywords": ["pompa", "oli", "lemah", "sirkulasi", "tidak lancar"]
+  },
+  {
+    "id": "lubrication_003",
+    "category": "Pelumasan",
+    "problem": "Seal oli bocor",
+    "symptoms": ["oli menetes", "oli cepat habis", "lantai kotor oli", "bau oli terbakar"],
+    "severity": "sedang",
+    "possible_causes": [
+      {
+        "cause": "Seal oli aus atau keras",
+        "probability": "tinggi",
+        "difficulty": "sedang",
+        "estimated_cost": "100000-300000",
+        "repair_time": "1-3 jam"
+      }
+    ],
+    "solutions": ["Ganti seal oli", "Bersihkan area seal", "Cek tekanan oli"],
+    "tools_needed": ["Seal puller", "Seal installer", "Gasket maker"],
+    "keywords": ["seal", "oli", "bocor", "menetes", "aus"]
+  },
+  {
+    "id": "lubrication_004",
+    "category": "Pelumasan",
+    "problem": "Level oli tidak normal",
+    "symptoms": ["oli kurang atau berlebih", "mesin kasar", "asap berlebih", "performa menurun"],
+    "severity": "ringan",
+    "possible_causes": [
+      {
+        "cause": "Oli kurang dari batas minimum",
+        "probability": "tinggi",
+        "difficulty": "ringan",
+        "estimated_cost": "50000-200000",
+        "repair_time": "15-30 menit"
+      },
+      {
+        "cause": "Oli berlebih dari kapasitas",
+        "probability": "sedang",
+        "difficulty": "ringan",
+        "estimated_cost": "0-100000",
+        "repair_time": "15-30 menit"
+      }
+    ],
+    "solutions": ["Tambah oli sesuai level", "Buang kelebihan oli", "Cek kebocoran"],
+     "tools_needed": ["Dipstick", "Corong oli", "Wadah oli"],
+     "keywords": ["level", "oli", "kurang", "berlebih", "kapasitas"]
+   },
+   {
+     "id": "fuel_001",
+     "category": "Bahan Bakar",
+     "problem": "Karburator kotor atau mampet",
+     "symptoms": ["mesin brebet", "susah start", "rpm tidak stabil", "boros bensin", "tenaga kurang"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Spuyer karburator tersumbat",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Setelan angin tidak tepat",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Bersihkan karburator", "Setel spuyer", "Atur setelan angin"],
+     "tools_needed": ["Obeng", "Cairan pembersih karbu", "Kompresor"],
+     "keywords": ["karburator", "kotor", "mampet", "spuyer", "setelan"]
+   },
+   {
+     "id": "fuel_002",
+     "category": "Bahan Bakar",
+     "problem": "Injector tersumbat (FI)",
+     "symptoms": ["mesin kasar", "tenaga drop", "konsumsi bensin boros", "idle tidak stabil"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Injector kotor atau tersumbat",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-3 jam"
+       }
+     ],
+     "solutions": ["Bersihkan injector", "Ganti injector", "Flush sistem bahan bakar"],
+     "tools_needed": ["Injector cleaner", "Scanner OBD", "Kunci pas"],
+     "keywords": ["injector", "fi", "tersumbat", "kotor", "bahan bakar"]
+   },
+   {
+     "id": "fuel_003",
+     "category": "Bahan Bakar",
+     "problem": "Filter bensin kotor",
+     "symptoms": ["mesin tersendat", "tenaga kurang", "susah start", "mesin mati mendadak"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Filter bensin tersumbat kotoran",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti filter bensin", "Bersihkan saluran bensin"],
+     "tools_needed": ["Kunci pas", "Filter bensin baru", "Wadah bensin"],
+     "keywords": ["filter", "bensin", "kotor", "tersumbat", "saluran"]
+   },
+   {
+     "id": "fuel_004",
+     "category": "Bahan Bakar",
+     "problem": "Pompa bensin lemah",
+     "symptoms": ["bensin tidak mengalir", "mesin kehabisan bensin", "tenaga drop", "susah start"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Pompa bensin aus atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "300000-700000",
+         "repair_time": "2-4 jam"
+       }
+     ],
+     "solutions": ["Ganti pompa bensin", "Cek kelistrikan pompa", "Bersihkan saringan pompa"],
+     "tools_needed": ["Multimeter", "Kunci pas", "Pompa bensin baru"],
+     "keywords": ["pompa", "bensin", "lemah", "tidak mengalir", "rusak"]
+   },
+   {
+     "id": "fuel_005",
+     "category": "Bahan Bakar",
+     "problem": "Tangki bensin berkarat atau bocor",
+     "symptoms": ["bensin menetes", "bau bensin", "karat dalam tangki", "bensin kotor"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Tangki berkarat dari dalam",
+         "probability": "tinggi",
+         "difficulty": "berat",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "4-8 jam"
+       },
+       {
+         "cause": "Seal tangki bocor",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti tangki bensin", "Coating anti karat", "Ganti seal tangki"],
+     "tools_needed": ["Kunci pas", "Coating kit", "Seal baru"],
+     "keywords": ["tangki", "bensin", "berkarat", "bocor", "menetes"]
+   },
+   {
+     "id": "cooling_001",
+     "category": "Pendinginan",
+     "problem": "Radiator bocor atau mampet",
+     "symptoms": ["mesin overheat", "coolant berkurang", "air radiator kotor", "temperatur tinggi"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Radiator bocor atau retak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "300000-800000",
+         "repair_time": "2-4 jam"
+       },
+       {
+         "cause": "Radiator tersumbat kotoran",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti radiator", "Flush radiator", "Tambal bocor radiator"],
+     "tools_needed": ["Kunci pas", "Radiator flush", "Solder radiator"],
+     "keywords": ["radiator", "bocor", "mampet", "overheat", "coolant"]
+   },
+   {
+     "id": "cooling_002",
+     "category": "Pendinginan",
+     "problem": "Kipas pendingin mati",
+     "symptoms": ["kipas tidak berputar", "mesin cepat panas", "overheat saat macet"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Motor kipas rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Relay kipas rusak",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti motor kipas", "Ganti relay kipas", "Cek kelistrikan kipas"],
+     "tools_needed": ["Multimeter", "Obeng", "Kunci pas"],
+     "keywords": ["kipas", "pendingin", "mati", "tidak berputar", "motor"]
+   },
+   {
+     "id": "cooling_003",
+     "category": "Pendinginan",
+     "problem": "Thermostat macet",
+     "symptoms": ["mesin lama panas", "overheat mendadak", "temperatur tidak stabil"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Thermostat macet tertutup atau terbuka",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-250000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti thermostat", "Test thermostat", "Flush sistem pendingin"],
+     "tools_needed": ["Kunci pas", "Thermometer", "Coolant baru"],
+     "keywords": ["thermostat", "macet", "temperatur", "tidak stabil", "panas"]
+   },
+   {
+     "id": "cooling_004",
+     "category": "Pendinginan",
+     "problem": "Selang radiator bocor",
+     "symptoms": ["coolant menetes", "selang getas", "coolant berkurang", "bau coolant"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Selang radiator getas atau retak",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-200000",
+         "repair_time": "30-90 menit"
+       }
+     ],
+     "solutions": ["Ganti selang radiator", "Kencangkan klem selang", "Cek semua sambungan"],
+     "tools_needed": ["Tang klem", "Selang radiator baru", "Klem selang"],
+     "keywords": ["selang", "radiator", "bocor", "getas", "retak"]
+   },
+   {
+     "id": "cooling_005",
+     "category": "Pendinginan",
+     "problem": "Coolant kurang atau kualitas jelek",
+     "symptoms": ["level coolant rendah", "coolant kotor", "mesin overheat", "karat dalam sistem"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Coolant habis atau menguap",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "15-30 menit"
+       },
+       {
+         "cause": "Coolant tidak diganti rutin",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-200000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Isi coolant", "Ganti coolant", "Flush sistem pendingin"],
+     "tools_needed": ["Coolant baru", "Corong", "Radiator flush"],
+     "keywords": ["coolant", "kurang", "kotor", "kualitas", "jelek"]
+   },
+   {
+     "id": "transmission_001",
+     "category": "Transmisi & CVT",
+     "problem": "Kampas kopling aus atau slip",
+     "symptoms": ["kopling slip", "tarikan lemah", "rpm tinggi tapi tidak lari", "bau terbakar"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Kampas kopling aus atau tipis",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Per kopling lemah",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti kampas kopling", "Ganti per kopling", "Setting kopling"],
+     "tools_needed": ["Kunci pas", "Kampas kopling baru", "Per kopling"],
+     "keywords": ["kampas", "kopling", "aus", "slip", "tarikan"]
+   },
+   {
+     "id": "transmission_002",
+     "category": "Transmisi & CVT",
+     "problem": "V-belt retak atau aus",
+     "symptoms": ["bunyi ngik dari CVT", "akselerasi lemah", "belt putus", "getaran saat gas"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "V-belt aus atau retak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Pulley CVT aus atau kotor",
+         "probability": "sedang",
+         "difficulty": "berat",
+         "estimated_cost": "300000-800000",
+         "repair_time": "3-4 jam"
+       }
+     ],
+     "solutions": ["Ganti V-belt", "Bersihkan pulley CVT", "Ganti pulley CVT"],
+     "tools_needed": ["Kunci CVT", "V-belt baru", "Pembersih CVT"],
+     "keywords": ["v-belt", "belt", "retak", "aus", "cvt"]
+   },
+   {
+     "id": "transmission_003",
+     "category": "Transmisi & CVT",
+     "problem": "Roller CVT aus atau tidak seimbang",
+     "symptoms": ["getaran saat akselerasi", "CVT bunyi kasar", "akselerasi tidak halus"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Roller CVT aus atau gepeng",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Berat roller tidak sesuai",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "80000-200000",
+         "repair_time": "1 jam"
+       }
+     ],
+     "solutions": ["Ganti roller CVT", "Sesuaikan berat roller", "Balancing CVT"],
+     "tools_needed": ["Kunci CVT", "Roller CVT baru", "Timbangan roller"],
+     "keywords": ["roller", "cvt", "aus", "seimbang", "getaran"]
+   },
+   {
+     "id": "transmission_004",
+     "category": "Transmisi & CVT",
+     "problem": "Gear ratio aus atau bunyi kasar",
+     "symptoms": ["bunyi kasar dari gearbox", "perpindahan gigi tidak halus", "gigi loncat"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Gigi transmisi aus atau patah",
+         "probability": "tinggi",
+         "difficulty": "berat",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "4-6 jam"
+       },
+       {
+         "cause": "Oli transmisi kotor atau habis",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-200000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti gear transmisi", "Ganti oli transmisi", "Overhaul gearbox"],
+     "tools_needed": ["Kunci pas", "Gear set baru", "Oli transmisi"],
+     "keywords": ["gear", "ratio", "aus", "bunyi", "kasar"]
+   },
+   {
+     "id": "transmission_005",
+     "category": "Transmisi & CVT",
+     "problem": "Kabel kopling seret atau putus",
+     "symptoms": ["kopling berat", "kabel macet", "kopling tidak bisa dioperasikan"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Kabel kopling putus atau seret",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Kabel kopling kurang pelumas",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "20000-50000",
+         "repair_time": "15-30 menit"
+       }
+     ],
+     "solutions": ["Ganti kabel kopling", "Lumasi kabel kopling", "Setting kabel kopling"],
+     "tools_needed": ["Kabel kopling baru", "Pelumas kabel", "Tang"],
+     "keywords": ["kabel", "kopling", "seret", "putus", "berat"]
+   },
+   {
+     "id": "electrical_001",
+     "category": "Kelistrikan",
+     "problem": "Aki soak atau drop",
+     "symptoms": ["starter lemah", "lampu redup", "klakson pelan", "mesin susah hidup"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Aki sudah soak atau drop",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "200000-600000",
+         "repair_time": "15-30 menit"
+       },
+       {
+         "cause": "Terminal aki kotor atau kendor",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "20000-50000",
+         "repair_time": "10-20 menit"
+       }
+     ],
+     "solutions": ["Ganti aki baru", "Bersihkan terminal aki", "Charge aki"],
+     "tools_needed": ["Kunci pas", "Aki baru", "Charger aki"],
+     "keywords": ["aki", "soak", "drop", "starter", "lemah"]
+   },
+   {
+     "id": "electrical_002",
+     "category": "Kelistrikan",
+     "problem": "Sekring putus",
+     "symptoms": ["lampu mati", "starter tidak berfungsi", "klakson mati", "sistem kelistrikan mati"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Sekring putus karena beban berlebih",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "5000-20000",
+         "repair_time": "5-15 menit"
+       },
+       {
+         "cause": "Korsleting pada sistem kelistrikan",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-200000",
+         "repair_time": "1-3 jam"
+       }
+     ],
+     "solutions": ["Ganti sekring", "Cek korsleting", "Perbaiki kabel putus"],
+     "tools_needed": ["Sekring baru", "Multimeter", "Tang"],
+     "keywords": ["sekring", "putus", "mati", "kelistrikan", "korsleting"]
+   },
+   {
+     "id": "electrical_003",
+     "category": "Kelistrikan",
+     "problem": "Dinamo starter lemah atau aus",
+     "symptoms": ["starter pelan", "bunyi krek-krek", "starter tidak berputar", "mesin susah hidup"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Dinamo starter aus atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "300000-800000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Carbon brush starter aus",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti dinamo starter", "Ganti carbon brush", "Service starter"],
+     "tools_needed": ["Kunci pas", "Dinamo starter baru", "Carbon brush"],
+     "keywords": ["dinamo", "starter", "lemah", "aus", "krek"]
+   },
+   {
+     "id": "electrical_004",
+     "category": "Kelistrikan",
+     "problem": "Spul atau stator terbakar",
+     "symptoms": ["tidak ada pengisian", "aki terus drop", "lampu redup saat rpm tinggi", "bau terbakar"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Gulungan spul terbakar atau putus",
+         "probability": "tinggi",
+         "difficulty": "berat",
+         "estimated_cost": "500000-1200000",
+         "repair_time": "3-5 jam"
+       },
+       {
+         "cause": "Regulator rusak menyebabkan overvoltage",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti spul stator", "Ganti regulator", "Rewinding spul"],
+     "tools_needed": ["Spul baru", "Regulator baru", "Multimeter"],
+     "keywords": ["spul", "stator", "terbakar", "pengisian", "gulungan"]
+   },
+   {
+     "id": "electrical_005",
+     "category": "Kelistrikan",
+     "problem": "Kabel body putus atau korsleting",
+     "symptoms": ["lampu mati sebagian", "sistem tidak berfungsi", "sekring sering putus", "percikan api"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Kabel putus atau terkelupas",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-3 jam"
+       },
+       {
+         "cause": "Kabel terkena panas atau gesekan",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "2-4 jam"
+       }
+     ],
+     "solutions": ["Ganti kabel body", "Sambung kabel putus", "Isolasi kabel"],
+     "tools_needed": ["Kabel baru", "Isolasi", "Solder"],
+     "keywords": ["kabel", "body", "putus", "korsleting", "mati"]
+   },
+   {
+     "id": "electrical_006",
+     "category": "Kelistrikan",
+     "problem": "Switch atau saklar kendor/berkarat",
+     "symptoms": ["saklar tidak berfungsi", "kontak tidak stabil", "harus ditekan berkali-kali"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Kontak saklar berkarat atau kotor",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Per saklar lemah atau patah",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "30000-100000",
+         "repair_time": "20-40 menit"
+       }
+     ],
+     "solutions": ["Bersihkan kontak saklar", "Ganti saklar", "Lumasi saklar"],
+     "tools_needed": ["Contact cleaner", "Saklar baru", "Obeng"],
+     "keywords": ["switch", "saklar", "kendor", "berkarat", "kontak"]
+   },
+   {
+     "id": "brake_001",
+     "category": "Pengereman",
+     "problem": "Kampas rem aus atau kotor",
+     "symptoms": ["rem blong", "bunyi decit saat rem", "jarak pengereman jauh", "rem tidak pakem"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Kampas rem aus atau tipis",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-300000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Kampas rem kotor atau glazing",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "20-40 menit"
+       }
+     ],
+     "solutions": ["Ganti kampas rem", "Bersihkan kampas rem", "Amplas kampas rem"],
+     "tools_needed": ["Kampas rem baru", "Amplas", "Pembersih rem"],
+     "keywords": ["kampas", "rem", "aus", "kotor", "blong"]
+   },
+   {
+     "id": "brake_002",
+     "category": "Pengereman",
+     "problem": "Cakram rem tipis atau baret",
+     "symptoms": ["rem bergetar", "bunyi kasar saat rem", "rem tidak rata", "kampas cepat aus"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Cakram rem tipis atau aus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "300000-800000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Cakram rem baret atau tidak rata",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti cakram rem", "Bubut cakram rem", "Ratakan permukaan cakram"],
+     "tools_needed": ["Cakram rem baru", "Mesin bubut", "Kunci pas"],
+     "keywords": ["cakram", "rem", "tipis", "baret", "bergetar"]
+   },
+   {
+     "id": "brake_003",
+     "category": "Pengereman",
+     "problem": "Master rem bocor",
+     "symptoms": ["minyak rem berkurang", "rem spongy", "pedal rem dalam", "bocor di master rem"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Seal master rem rusak atau aus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Silinder master rem aus atau baret",
+         "probability": "sedang",
+         "difficulty": "berat",
+         "estimated_cost": "300000-700000",
+         "repair_time": "2-3 jam"
+       }
+     ],
+     "solutions": ["Ganti seal master rem", "Ganti master rem", "Overhaul master rem"],
+     "tools_needed": ["Seal kit", "Master rem baru", "Minyak rem"],
+     "keywords": ["master", "rem", "bocor", "spongy", "seal"]
+   },
+   {
+     "id": "brake_004",
+     "category": "Pengereman",
+     "problem": "Selang rem getas atau bocor",
+     "symptoms": ["selang rem mengembang", "minyak rem menetes", "rem tidak responsif", "selang retak"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Selang rem getas atau retak",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-250000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Selang rem terkena panas berlebih",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "150000-300000",
+         "repair_time": "45-90 menit"
+       }
+     ],
+     "solutions": ["Ganti selang rem", "Cek routing selang", "Bleeding rem"],
+     "tools_needed": ["Selang rem baru", "Kunci pas", "Minyak rem"],
+     "keywords": ["selang", "rem", "getas", "bocor", "retak"]
+   },
+   {
+     "id": "brake_005",
+     "category": "Pengereman",
+     "problem": "Minyak rem habis atau kotor",
+     "symptoms": ["rem blong", "pedal rem kosong", "minyak rem keruh", "rem tidak berfungsi"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Minyak rem habis karena bocor",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Minyak rem kotor atau terkontaminasi",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-200000",
+         "repair_time": "45-90 menit"
+       }
+     ],
+     "solutions": ["Isi minyak rem", "Ganti minyak rem", "Bleeding sistem rem"],
+     "tools_needed": ["Minyak rem baru", "Bleeding kit", "Corong"],
+     "keywords": ["minyak", "rem", "habis", "kotor", "blong"]
+   },
+   {
+     "id": "suspension_001",
+     "category": "Suspensi & Rangka",
+     "problem": "Shock depan bocor atau keras",
+     "symptoms": ["shock bocor oli", "suspensi keras", "tidak ada redaman", "motor memantul"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Seal shock rusak atau aus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Oli shock habis atau kotor",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti seal shock", "Ganti oli shock", "Overhaul shock"],
+     "tools_needed": ["Seal shock", "Oli shock", "Kunci shock"],
+     "keywords": ["shock", "depan", "bocor", "keras", "suspensi"]
+   },
+   {
+     "id": "suspension_002",
+     "category": "Suspensi & Rangka",
+     "problem": "Shock belakang lemah atau bocor",
+     "symptoms": ["motor cepat turun", "shock tidak kencang", "bocor oli shock", "tidak ada daya dukung"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Gas shock habis atau bocor",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "300000-700000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Per shock patah atau lemah",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti shock belakang", "Isi gas shock", "Ganti per shock"],
+     "tools_needed": ["Shock baru", "Kompresor gas", "Per shock"],
+     "keywords": ["shock", "belakang", "lemah", "bocor", "turun"]
+   },
+   {
+     "id": "suspension_003",
+     "category": "Suspensi & Rangka",
+     "problem": "Bearing roda aus atau bunyi",
+     "symptoms": ["roda bunyi kasar", "roda goyang", "bearing aus", "roda tidak halus"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Bearing roda aus atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Bearing kurang grease atau kotor",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti bearing roda", "Lumasi bearing", "Bersihkan bearing"],
+     "tools_needed": ["Bearing baru", "Grease", "Bearing puller"],
+     "keywords": ["bearing", "roda", "aus", "bunyi", "kasar"]
+   },
+   {
+     "id": "suspension_004",
+     "category": "Suspensi & Rangka",
+     "problem": "As roda bengkok",
+     "symptoms": ["roda goyang", "motor bergetar", "ban cepat aus", "handling tidak stabil"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "As roda bengkok karena benturan",
+         "probability": "tinggi",
+         "difficulty": "berat",
+         "estimated_cost": "300000-800000",
+         "repair_time": "2-4 jam"
+       },
+       {
+         "cause": "As roda aus atau longgar",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-3 jam"
+       }
+     ],
+     "solutions": ["Ganti as roda", "Luruskan as roda", "Balancing roda"],
+     "tools_needed": ["As roda baru", "Press hidrolik", "Balancing machine"],
+     "keywords": ["as", "roda", "bengkok", "goyang", "bergetar"]
+   },
+   {
+     "id": "suspension_005",
+     "category": "Suspensi & Rangka",
+     "problem": "Swing arm longgar",
+     "symptoms": ["roda belakang goyang", "handling tidak stabil", "bunyi dari swing arm", "rantai sering kendor"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Baut swing arm kendor atau aus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Bushing swing arm aus",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "2-3 jam"
+       }
+     ],
+     "solutions": ["Kencangkan baut swing arm", "Ganti bushing", "Ganti swing arm"],
+     "tools_needed": ["Kunci torque", "Bushing baru", "Swing arm baru"],
+     "keywords": ["swing", "arm", "longgar", "goyang", "handling"]
+   },
+   {
+     "id": "suspension_006",
+     "category": "Suspensi & Rangka",
+     "problem": "Stang getar atau longgar",
+     "symptoms": ["stang bergetar", "handling tidak presisi", "stang goyang", "kemudi tidak stabil"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Bearing stang aus atau longgar",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Baut stang kendor",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-100000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti bearing stang", "Kencangkan baut stang", "Setting ulang stang"],
+     "tools_needed": ["Bearing stang", "Kunci torque", "Grease"],
+     "keywords": ["stang", "getar", "longgar", "kemudi", "bearing"]
+   },
+   {
+     "id": "tire_001",
+     "category": "Ban & Velg",
+     "problem": "Ban luar aus atau retak",
+     "symptoms": ["ban gundul", "ban retak", "grip berkurang", "ban tidak rata"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Ban sudah mencapai batas pakai",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "200000-800000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Tekanan angin tidak sesuai",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "0-50000",
+         "repair_time": "5-10 menit"
+       }
+     ],
+     "solutions": ["Ganti ban baru", "Cek tekanan angin", "Rotasi ban"],
+     "tools_needed": ["Ban baru", "Pompa angin", "Tire gauge"],
+     "keywords": ["ban", "luar", "aus", "retak", "gundul"]
+   },
+   {
+     "id": "tire_002",
+     "category": "Ban & Velg",
+     "problem": "Ban dalam bocor",
+     "symptoms": ["angin cepat habis", "ban kempes", "motor susah dikendarai"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Ban dalam tertusuk paku atau benda tajam",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "20000-80000",
+         "repair_time": "20-40 menit"
+       },
+       {
+         "cause": "Pentil ban rusak atau kendor",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "10000-30000",
+         "repair_time": "10-20 menit"
+       }
+     ],
+     "solutions": ["Tambal ban dalam", "Ganti ban dalam", "Ganti pentil"],
+     "tools_needed": ["Patch ban", "Ban dalam baru", "Pentil baru"],
+     "keywords": ["ban", "dalam", "bocor", "kempes", "angin"]
+   },
+   {
+     "id": "tire_003",
+     "category": "Ban & Velg",
+     "problem": "Velg peyang atau retak",
+     "symptoms": ["motor bergetar", "ban cepat aus", "handling tidak stabil", "velg tidak bulat"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Velg peyang karena benturan",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-600000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Velg retak atau patah",
+         "probability": "sedang",
+         "difficulty": "berat",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "2-4 jam"
+       }
+     ],
+     "solutions": ["Luruskan velg", "Ganti velg", "Las velg retak"],
+     "tools_needed": ["Mesin lurus velg", "Velg baru", "Las argon"],
+     "keywords": ["velg", "peyang", "retak", "bergetar", "bulat"]
+   },
+   {
+     "id": "tire_004",
+     "category": "Ban & Velg",
+     "problem": "Pentil ban bocor",
+     "symptoms": ["angin keluar dari pentil", "tekanan ban turun", "suara desis dari pentil"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Pentil aus atau rusak",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "10000-30000",
+         "repair_time": "10-20 menit"
+       },
+       {
+         "cause": "Tutup pentil hilang atau rusak",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "5000-15000",
+         "repair_time": "5-10 menit"
+       }
+     ],
+     "solutions": ["Ganti pentil", "Ganti tutup pentil", "Kencangkan pentil"],
+     "tools_needed": ["Pentil baru", "Tutup pentil", "Tang pentil"],
+     "keywords": ["pentil", "ban", "bocor", "angin", "desis"]
+   },
+   {
+     "id": "body_001",
+     "category": "Bodi & Aksesori",
+     "problem": "Baut atau mur kendor",
+     "symptoms": ["bunyi gemeretak", "panel body goyang", "komponen lepas", "getaran berlebih"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Baut kendor karena getaran",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "10000-50000",
+         "repair_time": "15-30 menit"
+       },
+       {
+         "cause": "Ulir baut aus atau rusak",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "20000-100000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Kencangkan baut", "Ganti baut baru", "Gunakan thread locker"],
+     "tools_needed": ["Kunci pas", "Baut baru", "Thread locker"],
+     "keywords": ["baut", "mur", "kendor", "gemeretak", "goyang"]
+   },
+   {
+     "id": "body_002",
+     "category": "Bodi & Aksesori",
+     "problem": "Spion longgar atau retak",
+     "symptoms": ["spion goyang", "spion retak", "pandangan tidak jelas", "spion lepas"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Baut spion kendor",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "10000-30000",
+         "repair_time": "10-20 menit"
+       },
+       {
+         "cause": "Kaca spion retak atau pecah",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-200000",
+         "repair_time": "20-40 menit"
+       }
+     ],
+     "solutions": ["Kencangkan baut spion", "Ganti kaca spion", "Ganti spion"],
+     "tools_needed": ["Kunci pas", "Kaca spion", "Spion baru"],
+     "keywords": ["spion", "longgar", "retak", "goyang", "pandangan"]
+   },
+   {
+     "id": "body_003",
+     "category": "Bodi & Aksesori",
+     "problem": "Lampu bohlam mati atau reflektor kusam",
+     "symptoms": ["lampu tidak menyala", "cahaya redup", "reflektor buram", "penerangan kurang"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Bohlam putus atau mati",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "20000-100000",
+         "repair_time": "10-30 menit"
+       },
+       {
+         "cause": "Reflektor kusam atau berkarat",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-200000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti bohlam", "Bersihkan reflektor", "Ganti reflektor"],
+     "tools_needed": ["Bohlam baru", "Pembersih reflektor", "Reflektor baru"],
+     "keywords": ["lampu", "bohlam", "mati", "reflektor", "kusam"]
+   },
+   {
+     "id": "body_004",
+     "category": "Bodi & Aksesori",
+     "problem": "Speedometer kabel putus atau sensor rusak",
+     "symptoms": ["speedometer tidak berfungsi", "jarum tidak bergerak", "odometer mati"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Kabel speedometer putus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Sensor speedometer rusak",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "45-90 menit"
+       }
+     ],
+     "solutions": ["Ganti kabel speedometer", "Ganti sensor speedometer", "Kalibrasi speedometer"],
+     "tools_needed": ["Kabel speedometer", "Sensor baru", "Obeng"],
+     "keywords": ["speedometer", "kabel", "putus", "sensor", "jarum"]
+   },
+   {
+     "id": "body_005",
+     "category": "Bodi & Aksesori",
+     "problem": "Jok sobek atau busa tipis",
+     "symptoms": ["jok tidak nyaman", "busa kempes", "kulit jok robek", "duduk tidak empuk"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Busa jok sudah kempes atau tipis",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Kulit jok sobek atau rusak",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1-3 jam"
+       }
+     ],
+     "solutions": ["Ganti busa jok", "Ganti cover jok", "Tambal jok sobek"],
+     "tools_needed": ["Busa jok", "Cover jok", "Jarum jahit"],
+     "keywords": ["jok", "sobek", "busa", "tipis", "nyaman"]
+   },
+   {
+     "id": "engine_011",
+     "category": "Mesin",
+     "problem": "Motor brebet saat gas ditarik",
+     "symptoms": ["Tarikan tersendat-sendat", "Suara mesin tidak halus", "Tenaga berkurang"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Karburator kotor atau setelan tidak tepat",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Filter udara tersumbat",
+         "probability": "sedang",
+         "difficulty": "mudah",
+         "estimated_cost": "25000-75000",
+         "repair_time": "30 menit"
+       }
+     ],
+     "solutions": ["Bersihkan karburator", "Setel ulang karburator", "Ganti filter udara"],
+     "tools_needed": ["Obeng", "Kunci pas", "Cairan pembersih karbu"],
+     "keywords": ["brebet", "tersendat", "karburator", "filter udara"]
+   },
+   {
+     "id": "electrical_011",
+     "category": "Kelistrikan",
+     "problem": "Lampu depan mati sebelah",
+     "symptoms": ["Satu lampu tidak menyala", "Penerangan berkurang", "Lampu kedip-kedip"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Bohlam putus",
+         "probability": "tinggi",
+         "difficulty": "mudah",
+         "estimated_cost": "15000-50000",
+         "repair_time": "15 menit"
+       },
+       {
+         "cause": "Kabel putus atau kendor",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "25000-100000",
+         "repair_time": "30-60 menit"
+       }
+     ],
+     "solutions": ["Ganti bohlam", "Periksa dan perbaiki kabel", "Bersihkan socket lampu"],
+     "tools_needed": ["Bohlam baru", "Obeng", "Multimeter"],
+     "keywords": ["lampu", "mati", "bohlam", "putus", "depan"]
+   },
+   {
+     "id": "brake_011",
+     "category": "Pengereman",
+     "problem": "Rem blong atau tidak pakem",
+     "symptoms": ["Tuas rem mentok", "Motor sulit berhenti", "Bunyi ngik saat ngerem"],
+     "severity": "berat",
+     "possible_causes": [
+       {
+         "cause": "Kampas rem habis",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "75000-200000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Minyak rem habis atau bocor",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti kampas rem", "Isi minyak rem", "Bleeding rem", "Perbaiki kebocoran"],
+     "tools_needed": ["Kampas rem", "Minyak rem", "Kunci pas", "Selang bleeding"],
+     "keywords": ["rem", "blong", "kampas", "minyak rem", "pakem"]
+   },
+   {
+     "id": "transmission_011",
+     "category": "Transmisi & CVT",
+     "problem": "Kopling selip atau tidak mengigit",
+     "symptoms": ["RPM tinggi tapi motor lambat", "Bau gosong", "Getaran saat akselerasi"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Kampas kopling aus",
+         "probability": "tinggi",
+         "difficulty": "berat",
+         "estimated_cost": "200000-500000",
+         "repair_time": "3-5 jam"
+       },
+       {
+         "cause": "Per kopling lemah",
+         "probability": "sedang",
+         "difficulty": "berat",
+         "estimated_cost": "150000-300000",
+         "repair_time": "2-4 jam"
+       }
+     ],
+     "solutions": ["Ganti kampas kopling", "Ganti per kopling", "Setel kopling"],
+     "tools_needed": ["Kampas kopling", "Per kopling", "Kunci shock", "Puller"],
+     "keywords": ["kopling", "selip", "kampas", "per", "CVT"]
+   },
+   {
+     "id": "fuel_011",
+     "category": "Bahan Bakar",
+     "problem": "Konsumsi bensin boros",
+     "symptoms": ["Bensin cepat habis", "Jarak tempuh berkurang", "Asap knalpot hitam"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Karburator banjir atau setelan kaya",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "75000-200000",
+         "repair_time": "1-3 jam"
+       },
+       {
+         "cause": "Filter udara kotor",
+         "probability": "sedang",
+         "difficulty": "mudah",
+         "estimated_cost": "25000-75000",
+         "repair_time": "30 menit"
+       }
+     ],
+     "solutions": ["Setel karburator", "Ganti filter udara", "Bersihkan injektor"],
+     "tools_needed": ["Obeng", "Filter udara", "Cairan pembersih"],
+     "keywords": ["boros", "bensin", "konsumsi", "karburator", "filter"]
+   },
+   {
+     "id": "engine_012",
+     "category": "Mesin",
+     "problem": "Busi cepat mati atau berkerak hitam",
+     "symptoms": ["Susah starter", "Mesin brebet", "Busi hitam berkerak", "Percikan api lemah"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Elektroda busi aus atau gap terlalu lebar",
+         "probability": "tinggi",
+         "difficulty": "mudah",
+         "estimated_cost": "15000-50000",
+         "repair_time": "15 menit"
+       },
+       {
+         "cause": "Campuran bensin terlalu kaya",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "1 jam"
+       }
+     ],
+     "solutions": ["Ganti busi baru", "Setel karburator", "Bersihkan filter udara"],
+     "tools_needed": ["Kunci busi", "Feeler gauge", "Obeng"],
+     "keywords": ["busi", "berkerak", "hitam", "starter", "percikan"]
+   },
+   {
+     "id": "engine_013",
+     "category": "Mesin",
+     "problem": "Klep motor bunyi kasar atau ticking",
+     "symptoms": ["Suara tik-tik dari kepala silinder", "Tenaga berkurang", "Suara makin keras saat RPM tinggi"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Celah klep terlalu renggang",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "100000-300000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Klep bengkok atau aus",
+         "probability": "sedang",
+         "difficulty": "sangat sulit",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "1 hari"
+       }
+     ],
+     "solutions": ["Setel celah klep", "Ganti klep", "Overhaul kepala silinder"],
+     "tools_needed": ["Feeler gauge", "Kunci pas", "Obeng"],
+     "keywords": ["klep", "ticking", "tik-tik", "kepala silinder", "valve"]
+   },
+   {
+     "id": "engine_014",
+     "category": "Mesin",
+     "problem": "Motor ngebul putih kebiruan",
+     "symptoms": ["Asap putih kebiruan dari knalpot", "Oli berkurang cepat", "Bau oli terbakar"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Seal klep getas atau sobek",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "200000-500000",
+         "repair_time": "3-4 jam"
+       },
+       {
+         "cause": "Ring piston aus atau macet",
+         "probability": "sedang",
+         "difficulty": "sangat sulit",
+         "estimated_cost": "800000-2000000",
+         "repair_time": "2 hari"
+       }
+     ],
+     "solutions": ["Ganti seal klep", "Overhaul mesin", "Ganti ring piston"],
+     "tools_needed": ["Kunci pas set", "Obeng", "Alat khusus klep"],
+     "keywords": ["ngebul", "putih", "kebiruan", "oli", "seal klep"]
+   },
+   {
+     "id": "engine_015",
+     "category": "Mesin",
+     "problem": "Per klep patah atau melemah",
+     "symptoms": ["Floating valve di RPM tinggi", "Tenaga hilang mendadak", "Suara aneh dari kepala silinder"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "Per klep lelah atau patah",
+         "probability": "tinggi",
+         "difficulty": "sangat sulit",
+         "estimated_cost": "300000-800000",
+         "repair_time": "4-6 jam"
+       }
+     ],
+     "solutions": ["Ganti per klep", "Overhaul kepala silinder"],
+     "tools_needed": ["Alat khusus per klep", "Kunci pas set"],
+     "keywords": ["per klep", "floating", "valve spring", "patah"]
+   },
+   {
+     "id": "electrical_012",
+     "category": "Kelistrikan",
+     "problem": "Aki soak tidak bisa menyimpan setrum",
+     "symptoms": ["Motor susah starter", "Lampu redup", "Aki cepat tekor", "Voltase aki rendah"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Sel aki rusak atau sulfasi",
+         "probability": "tinggi",
+         "difficulty": "mudah",
+         "estimated_cost": "200000-500000",
+         "repair_time": "30 menit"
+       },
+       {
+         "cause": "Air aki kurang (untuk aki basah)",
+         "probability": "sedang",
+         "difficulty": "mudah",
+         "estimated_cost": "5000-15000",
+         "repair_time": "10 menit"
+       }
+     ],
+     "solutions": ["Ganti aki baru", "Isi air aki", "Charge aki"],
+     "tools_needed": ["Multimeter", "Charger aki", "Air aki"],
+     "keywords": ["aki", "soak", "tekor", "battery", "setrum"]
+   },
+   {
+     "id": "electrical_013",
+     "category": "Kelistrikan",
+     "problem": "Sekring putus terus menerus",
+     "symptoms": ["Listrik mati total", "Sekring terbakar", "Ada bau terbakar", "Korsleting"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "Korsleting pada kabel bodi",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "100000-300000",
+         "repair_time": "2-4 jam"
+       },
+       {
+         "cause": "Beban listrik berlebih",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Cari dan perbaiki korsleting", "Ganti kabel rusak", "Kurangi beban listrik"],
+     "tools_needed": ["Multimeter", "Isolasi", "Kabel baru"],
+     "keywords": ["sekring", "putus", "korsleting", "terbakar", "fuse"]
+   },
+   {
+     "id": "electrical_014",
+     "category": "Kelistrikan",
+     "problem": "Spul terbakar atau korslet",
+     "symptoms": ["Pengisian aki lemah", "Aki tekor terus", "Tidak ada pengisian sama sekali", "Bau terbakar dari spul"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "Spul stator terbakar atau korslet",
+         "probability": "tinggi",
+         "difficulty": "sangat sulit",
+         "estimated_cost": "800000-2000000",
+         "repair_time": "1-2 hari"
+       }
+     ],
+     "solutions": ["Ganti spul stator", "Rewind spul", "Ganti magnet"],
+     "tools_needed": ["Multimeter", "Alat khusus spul", "Solder"],
+     "keywords": ["spul", "stator", "terbakar", "korslet", "pengisian"]
+   },
+   {
+     "id": "electrical_015",
+     "category": "Kelistrikan",
+     "problem": "Kiprok rusak pengisian berlebih",
+     "symptoms": ["Bohlam sering putus", "Aki overcharge", "Voltase tinggi", "Air aki cepat habis"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Kiprok regulator rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1 jam"
+       }
+     ],
+     "solutions": ["Ganti kiprok", "Cek kabel pengisian"],
+     "tools_needed": ["Multimeter", "Kiprok baru"],
+     "keywords": ["kiprok", "regulator", "overcharge", "bohlam putus"]
+   },
+   {
+     "id": "electrical_016",
+     "category": "Kelistrikan",
+     "problem": "Koil pengapian melemah",
+     "symptoms": ["Percikan api busi kecil", "Susah starter", "Mesin brebet", "Tenaga berkurang"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Koil ignition melemah atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1 jam"
+       }
+     ],
+     "solutions": ["Ganti koil pengapian", "Cek kabel koil"],
+     "tools_needed": ["Multimeter", "Koil baru", "Kunci pas"],
+     "keywords": ["koil", "pengapian", "ignition", "percikan", "api"]
+   },
+   {
+     "id": "electrical_017",
+     "category": "Kelistrikan",
+     "problem": "CDI atau ECU mati total",
+     "symptoms": ["Tidak ada pengapian sama sekali", "Motor mati total", "Tidak ada percikan api"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "CDI atau ECU rusak/mati",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti CDI", "Ganti ECU", "Cek kabel CDI"],
+     "tools_needed": ["CDI/ECU baru", "Multimeter"],
+     "keywords": ["cdi", "ecu", "pengapian", "mati total"]
+   },
+   {
+     "id": "transmission_012",
+     "category": "Transmisi & CVT",
+     "problem": "Kampas kopling aus atau gosong",
+     "symptoms": ["Kopling selip", "Bau gosong", "Tenaga tidak tersalur", "RPM tinggi tapi motor lambat"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Kampas kopling aus atau gosong",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "200000-500000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Plat kopling melengkung",
+         "probability": "sedang",
+         "difficulty": "sulit",
+         "estimated_cost": "300000-700000",
+         "repair_time": "3-4 jam"
+       }
+     ],
+     "solutions": ["Ganti kampas kopling", "Ganti plat kopling", "Setel kopling"],
+     "tools_needed": ["Kampas kopling", "Kunci pas set", "Obeng"],
+     "keywords": ["kopling", "selip", "gosong", "kampas", "clutch"]
+   },
+   {
+     "id": "transmission_013",
+     "category": "Transmisi & CVT",
+     "problem": "V-belt CVT retak atau aus",
+     "symptoms": ["Akselerasi lemah", "Suara berdecit", "Getaran saat gas", "Top speed berkurang"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "V-belt retak, getas, atau aus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti V-belt", "Cek pulley CVT", "Bersihkan CVT"],
+     "tools_needed": ["V-belt baru", "Kunci pas", "Pembersih CVT"],
+     "keywords": ["v-belt", "cvt", "retak", "aus", "akselerasi"]
+   },
+   {
+     "id": "transmission_014",
+     "category": "Transmisi & CVT",
+     "problem": "Roller CVT peyang atau aus",
+     "symptoms": ["Putaran mesin tidak stabil", "Akselerasi tersendat", "Suara kasar dari CVT"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Roller CVT peyang atau aus",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-250000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti roller CVT", "Bersihkan rumah roller"],
+     "tools_needed": ["Roller CVT", "Kunci pas", "Pembersih"],
+     "keywords": ["roller", "cvt", "peyang", "aus", "putaran"]
+   },
+   {
+     "id": "fuel_012",
+     "category": "Bahan Bakar",
+     "problem": "Tangki bensin berkarat atau bocor",
+     "symptoms": ["Bau bensin", "Bensin menetes", "Karat di tangki", "Bensin kotor"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Tangki bensin berkarat atau bocor",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "1 hari"
+       }
+     ],
+     "solutions": ["Ganti tangki bensin", "Las tangki", "Anti karat tangki"],
+     "tools_needed": ["Tangki baru", "Las", "Anti karat"],
+     "keywords": ["tangki", "bensin", "bocor", "karat", "menetes"]
+   },
+   {
+     "id": "fuel_013",
+     "category": "Bahan Bakar",
+     "problem": "Fuel pump tekanan melemah",
+     "symptoms": ["Susah starter", "Tenaga berkurang", "Mesin mati mendadak", "Bensin tidak naik"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Fuel pump tekanan melemah",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "300000-800000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Filter fuel pump kotor",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-200000",
+         "repair_time": "1 jam"
+       }
+     ],
+     "solutions": ["Ganti fuel pump", "Bersihkan filter", "Cek tekanan"],
+     "tools_needed": ["Fuel pump", "Pressure gauge", "Filter"],
+     "keywords": ["fuel pump", "tekanan", "bensin", "injeksi", "efi"]
+   },
+   {
+     "id": "brake_012",
+     "category": "Pengereman",
+     "problem": "Minyak rem bocor atau habis",
+     "symptoms": ["Pedal rem blong", "Minyak rem berkurang", "Ada genangan minyak", "Rem tidak pakem"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "Seal master rem bocor",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "200000-500000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Selang rem bocor atau retak",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti seal master rem", "Ganti selang rem", "Bleeding rem"],
+     "tools_needed": ["Minyak rem", "Seal kit", "Kunci pas"],
+     "keywords": ["minyak rem", "bocor", "blong", "master", "seal"]
+   },
+   {
+     "id": "brake_013",
+     "category": "Pengereman",
+     "problem": "Cakram rem melengkung atau baret",
+     "symptoms": ["Getaran saat ngerem", "Suara berdecit", "Rem tidak rata", "Kampas cepat aus"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Cakram rem melengkung atau baret",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "300000-800000",
+         "repair_time": "2-4 jam"
+       }
+     ],
+     "solutions": ["Ganti cakram rem", "Bubut cakram", "Ganti kampas rem"],
+     "tools_needed": ["Cakram baru", "Mesin bubut", "Kampas rem"],
+     "keywords": ["cakram", "melengkung", "baret", "getaran", "disc"]
+   },
+   {
+     "id": "suspension_012",
+     "category": "Rangka & Kaki-kaki",
+     "problem": "Shock breaker depan bocor atau keras",
+     "symptoms": ["Oli shock menetes", "Suspensi keras", "Bantingan kasar", "Handling buruk"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Seal shock breaker bocor",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "300000-600000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Oli shock habis atau kental",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti seal shock", "Ganti oli shock", "Overhaul shock"],
+     "tools_needed": ["Seal kit", "Oli shock", "Kunci shock"],
+     "keywords": ["shock", "bocor", "keras", "suspensi", "oli"]
+   },
+   {
+     "id": "suspension_013",
+     "category": "Rangka & Kaki-kaki",
+     "problem": "Bearing roda aus atau macet",
+     "symptoms": ["Roda berputar tidak halus", "Suara kasar dari roda", "Getaran di setang", "Roda goyang"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Bearing roda aus atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "200000-400000",
+         "repair_time": "2-3 jam"
+       }
+     ],
+     "solutions": ["Ganti bearing roda", "Bersihkan bearing", "Grease bearing"],
+     "tools_needed": ["Bearing baru", "Grease", "Kunci pas"],
+     "keywords": ["bearing", "roda", "aus", "macet", "goyang"]
+   },
+   {
+     "id": "suspension_014",
+     "category": "Rangka & Kaki-kaki",
+     "problem": "Velg peyang atau retak",
+     "symptoms": ["Getaran saat jalan", "Motor oleng", "Ban cepat aus", "Handling buruk"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "Velg peyang akibat benturan",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "500000-2000000",
+         "repair_time": "1 hari"
+       },
+       {
+         "cause": "Velg retak atau patah",
+         "probability": "sedang",
+         "difficulty": "sangat sulit",
+         "estimated_cost": "800000-3000000",
+         "repair_time": "1-2 hari"
+       }
+     ],
+     "solutions": ["Ganti velg", "Press velg", "Las velg (tidak disarankan)"],
+     "tools_needed": ["Velg baru", "Mesin press", "Las argon"],
+     "keywords": ["velg", "peyang", "retak", "getaran", "oleng"]
+   },
+   {
+     "id": "engine_016",
+     "category": "Mesin",
+     "problem": "Rantai keteng kendor atau melar",
+     "symptoms": ["Suara berisik dari mesin", "Timing pengapian berubah", "Tenaga berkurang", "Suara gemeretak"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Rantai keteng melar atau kendor",
+         "probability": "tinggi",
+         "difficulty": "sulit",
+         "estimated_cost": "300000-800000",
+         "repair_time": "3-4 jam"
+       },
+       {
+         "cause": "Tensioner keteng rusak",
+         "probability": "sedang",
+         "difficulty": "sulit",
+         "estimated_cost": "200000-500000",
+         "repair_time": "2-3 jam"
+       }
+     ],
+     "solutions": ["Ganti rantai keteng", "Ganti tensioner", "Setel timing"],
+     "tools_needed": ["Rantai keteng", "Tensioner", "Kunci timing"],
+     "keywords": ["rantai", "keteng", "timing", "kendor", "melar"]
+   },
+   {
+     "id": "engine_017",
+     "category": "Mesin",
+     "problem": "Pompa oli melemah atau rusak",
+     "symptoms": ["Lampu oli menyala", "Suara mesin kasar", "Oli tidak bersirkulasi", "Mesin panas berlebihan"],
+     "severity": "sangat tinggi",
+     "possible_causes": [
+       {
+         "cause": "Pompa oli melemah atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sangat sulit",
+         "estimated_cost": "500000-1200000",
+         "repair_time": "4-6 jam"
+       },
+       {
+         "cause": "Saringan oli tersumbat",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Ganti pompa oli", "Bersihkan saringan", "Overhaul mesin"],
+     "tools_needed": ["Pompa oli", "Gasket set", "Kunci pas set"],
+     "keywords": ["pompa oli", "sirkulasi", "lampu oli", "melemah"]
+   },
+   {
+     "id": "carburetor_012",
+     "category": "Bahan Bakar",
+     "problem": "Spuyer karburator tersumbat",
+     "symptoms": ["Mesin brebet", "Susah starter", "Tenaga kurang", "Boros bensin"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Spuyer pilot atau main jet tersumbat",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "50000-150000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Bensin kotor atau berkualitas buruk",
+         "probability": "sedang",
+         "difficulty": "mudah",
+         "estimated_cost": "30000-100000",
+         "repair_time": "30 menit"
+       }
+     ],
+     "solutions": ["Bersihkan spuyer", "Ganti spuyer", "Servis karburator"],
+     "tools_needed": ["Pembersih karbu", "Kawat halus", "Obeng set"],
+     "keywords": ["spuyer", "karburator", "tersumbat", "jet", "brebet"]
+   },
+   {
+     "id": "injection_001",
+     "category": "Sistem Injeksi",
+     "problem": "Injektor kotor atau tersumbat",
+     "symptoms": ["mesin brebet", "tenaga kurang", "idle tidak stabil", "boros bensin", "susah starter"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Injektor kotor atau tersumbat",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "2-3 jam"
+       },
+       {
+         "cause": "Bensin berkualitas buruk",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-200000",
+         "repair_time": "1 jam"
+       }
+     ],
+     "solutions": ["Bersihkan injektor", "Ganti filter bensin", "Gunakan fuel cleaner"],
+     "tools_needed": ["Ultrasonic cleaner", "Fuel cleaner", "Scanner OBD"],
+     "keywords": ["injektor", "injeksi", "kotor", "tersumbat", "brebet"]
+   },
+   {
+     "id": "abs_001",
+     "category": "Sistem ABS",
+     "problem": "Lampu ABS menyala terus",
+     "symptoms": ["lampu ABS nyala", "rem terasa keras", "bunyi klik saat rem", "rem tidak responsif"],
+     "severity": "tinggi",
+     "possible_causes": [
+       {
+         "cause": "Sensor ABS kotor atau rusak",
+         "probability": "tinggi",
+         "difficulty": "sedang",
+         "estimated_cost": "300000-800000",
+         "repair_time": "2-4 jam"
+       },
+       {
+         "cause": "Kabel sensor putus atau korosi",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Bersihkan sensor ABS", "Ganti sensor ABS", "Perbaiki kabel"],
+     "tools_needed": ["Scanner ABS", "Multimeter", "Pembersih sensor"],
+     "keywords": ["abs", "lampu", "sensor", "rem", "keras"]
+   },
+   {
+     "id": "daily_001",
+     "category": "Masalah Harian",
+     "problem": "Motor susah hidup pagi hari",
+     "symptoms": ["susah starter pagi", "mesin lama hidup", "idle tidak stabil awal", "perlu dipanasin lama"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Choke tidak berfungsi optimal",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Busi lemah atau kotor",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "30000-100000",
+         "repair_time": "15-30 menit"
+       }
+     ],
+     "solutions": ["Setel choke", "Bersihkan busi", "Ganti busi"],
+     "tools_needed": ["Obeng", "Busi baru", "Sikat kawat"],
+     "keywords": ["susah", "hidup", "pagi", "starter", "dingin"]
+   },
+   {
+     "id": "daily_002",
+     "category": "Masalah Harian",
+     "problem": "Speedometer tidak akurat atau mati",
+     "symptoms": ["speedometer tidak jalan", "jarum goyang", "angka tidak tepat", "lampu indikator mati"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Kabel speedometer putus",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-250000",
+         "repair_time": "1-2 jam"
+       },
+       {
+         "cause": "Sensor kecepatan rusak",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "2-3 jam"
+       }
+     ],
+     "solutions": ["Ganti kabel speedometer", "Ganti sensor kecepatan", "Service speedometer"],
+     "tools_needed": ["Kabel speedometer", "Sensor baru", "Obeng set"],
+     "keywords": ["speedometer", "jarum", "tidak", "jalan", "akurat"]
+   },
+   {
+     "id": "weather_001",
+     "category": "Masalah Cuaca",
+     "problem": "Motor susah hidup saat hujan",
+     "symptoms": ["susah starter hujan", "mesin mati mendadak", "brebet saat hujan", "tenaga drop"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Sistem pengapian basah",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-200000",
+         "repair_time": "30-90 menit"
+       },
+       {
+         "cause": "Kabel busi bocor atau retak",
+         "probability": "sedang",
+         "difficulty": "ringan",
+         "estimated_cost": "100000-300000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Keringkan sistem pengapian", "Ganti kabel busi", "Pasang cover pengapian"],
+     "tools_needed": ["Kain kering", "Kabel busi baru", "WD-40"],
+     "keywords": ["hujan", "basah", "susah", "hidup", "pengapian"]
+   },
+   {
+     "id": "modern_001",
+     "category": "Teknologi Modern",
+     "problem": "Sistem keyless bermasalah",
+     "symptoms": ["remote tidak respon", "alarm bunyi terus", "motor tidak bisa dinyalakan", "lampu hazard kedip"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Baterai remote lemah",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "20000-50000",
+         "repair_time": "10-20 menit"
+       },
+       {
+         "cause": "Modul keyless rusak",
+         "probability": "sedang",
+         "difficulty": "berat",
+         "estimated_cost": "500000-1500000",
+         "repair_time": "3-5 jam"
+       }
+     ],
+     "solutions": ["Ganti baterai remote", "Reset sistem keyless", "Ganti modul keyless"],
+     "tools_needed": ["Baterai remote", "Scanner keyless", "Modul baru"],
+     "keywords": ["keyless", "remote", "alarm", "tidak", "respon"]
+   },
+   {
+     "id": "maintenance_001",
+     "category": "Perawatan Rutin",
+     "problem": "Rantai kendor dan berisik",
+     "symptoms": ["rantai bunyi", "rantai kendor", "getaran saat akselerasi", "rantai loncat"],
+     "severity": "ringan",
+     "possible_causes": [
+       {
+         "cause": "Rantai kendor karena pemakaian",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Rantai aus atau melar",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "200000-500000",
+         "repair_time": "1-2 jam"
+       }
+     ],
+     "solutions": ["Setel rantai", "Ganti rantai", "Lumasi rantai"],
+     "tools_needed": ["Kunci pas", "Rantai baru", "Chain lube"],
+     "keywords": ["rantai", "kendor", "bunyi", "berisik", "loncat"]
+   },
+   {
+     "id": "comfort_001",
+     "category": "Kenyamanan",
+     "problem": "Getaran berlebihan saat berkendara",
+     "symptoms": ["motor getar", "stang goyang", "tidak nyaman", "tangan kebas"],
+     "severity": "sedang",
+     "possible_causes": [
+       {
+         "cause": "Balancing roda tidak tepat",
+         "probability": "tinggi",
+         "difficulty": "ringan",
+         "estimated_cost": "50000-150000",
+         "repair_time": "30-60 menit"
+       },
+       {
+         "cause": "Bearing roda aus",
+         "probability": "sedang",
+         "difficulty": "sedang",
+         "estimated_cost": "150000-400000",
+         "repair_time": "2-3 jam"
+       }
+     ],
+     "solutions": ["Balancing roda", "Ganti bearing roda", "Cek alignment"],
+     "tools_needed": ["Balancing machine", "Bearing baru", "Kunci pas"],
+     "keywords": ["getaran", "getar", "goyang", "tidak", "nyaman"]
+   }
+ ]
