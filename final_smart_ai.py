@@ -1294,9 +1294,68 @@ class FinalSmartMotorcycleAI:
         
         return "\n".join(summary)
 
-def main():
-    """Testing dengan kasus terminal yang sama"""
-    print("🚀 Final Smart Motorcycle AI - Ultimate Version")
+def chat_mode():
+    """Mode chatting interaktif dengan user"""
+    print("🚀 Smart Motorcycle AI - Chat Mode")
+    print("=" * 60)
+    print("💬 Ceritain masalah motormu, gue bantu diagnosa!")
+    print("📝 Ketik 'quit', 'exit', atau 'keluar' untuk berhenti")
+    print("📊 Ketik 'summary' untuk lihat ringkasan percakapan")
+    print("🔄 Ketik 'reset' untuk mulai session baru")
+    print("=" * 60)
+    
+    ai = FinalSmartMotorcycleAI()
+    session_id = f"chat_session_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+    
+    print(f"\n🆔 Session ID: {session_id}")
+    print("\n🔧 Mulai ceritain masalah motormu...")
+    
+    while True:
+        try:
+            user_input = input("\n👤 Kamu: ").strip()
+            
+            # Handle special commands
+            if user_input.lower() in ['quit', 'exit', 'keluar', 'q']:
+                print("\n👋 Makasih udah konsultasi! Semoga motornya cepet sembuh!")
+                print(f"\n📊 Final Summary:")
+                print("=" * 50)
+                print(ai.get_smart_summary(session_id))
+                break
+            
+            elif user_input.lower() == 'summary':
+                print("\n📊 Ringkasan Percakapan:")
+                print("=" * 50)
+                print(ai.get_smart_summary(session_id))
+                continue
+            
+            elif user_input.lower() == 'reset':
+                # Clear current session
+                if hasattr(ai, 'sessions') and session_id in ai.sessions:
+                    del ai.sessions[session_id]
+                session_id = f"chat_session_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+                print(f"\n🔄 Session baru dimulai! ID: {session_id}")
+                continue
+            
+            elif not user_input:
+                print("\n❓ Coba ceritain masalahnya dong...")
+                continue
+            
+            # Get AI response
+            print("\n🤖 AI Mekanik:")
+            print("-" * 50)
+            response = ai.diagnose(user_input, session_id)
+            print(response)
+            
+        except KeyboardInterrupt:
+            print("\n\n👋 Dadah! Semoga motornya cepet sembuh!")
+            break
+        except Exception as e:
+            print(f"\n❌ Error: {e}")
+            print("Coba lagi ya...")
+
+def test_mode():
+    """Mode testing dengan kasus yang sudah ditentukan"""
+    print("🚀 Final Smart Motorcycle AI - Test Mode")
     print("=" * 70)
     
     ai = FinalSmartMotorcycleAI()
@@ -1330,6 +1389,36 @@ def main():
     print("FINAL SMART SUMMARY")
     print("="*60)
     print(ai.get_smart_summary(session_id))
+
+def main():
+    """Main function dengan pilihan mode"""
+    print("🚀 Smart Motorcycle AI")
+    print("=" * 40)
+    print("Pilih mode:")
+    print("1. Chat Mode (Interaktif)")
+    print("2. Test Mode (Otomatis)")
+    print("3. Exit")
+    print("=" * 40)
+    
+    while True:
+        try:
+            choice = input("\nPilih mode (1/2/3): ").strip()
+            
+            if choice == '1':
+                chat_mode()
+                break
+            elif choice == '2':
+                test_mode()
+                break
+            elif choice == '3':
+                print("\n👋 Sampai jumpa!")
+                break
+            else:
+                print("\n❌ Pilihan tidak valid. Pilih 1, 2, atau 3.")
+                
+        except KeyboardInterrupt:
+            print("\n\n👋 Sampai jumpa!")
+            break
 
 if __name__ == "__main__":
     main()
