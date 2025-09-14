@@ -1,0 +1,84 @@
+{
+  "total_entries": 611,
+  "inconsistent_entries": 6,
+  "consistency_rate": 99.01800327332242,
+  "category_issues": {
+    "ban_velg": 1,
+    "mesin": 1,
+    "kelistrikan": 1,
+    "transmisi": 1,
+    "body_rangka": 1,
+    "suspensi": 1
+  },
+  "issue_types": {
+    "Question and answer discuss different motor components": 6
+  },
+  "sample_inconsistencies": [
+    {
+      "id": 125,
+      "question": "Mengapa matic Kawasaki saya goyang?",
+      "answer": "Masalah goyang di matic bisa jadi karena masalah pada pentil. Coba periksa dan perbaiki pentil.",
+      "category": "ban_velg",
+      "relevance_score": 0.5,
+      "component_mismatch": true,
+      "issues": [
+        "Question and answer discuss different motor components"
+      ]
+    },
+    {
+      "id": 395,
+      "question": "Motor Kawasaki getaran berlebih, apa penyebabnya?",
+      "answer": "Masalah getaran berlebih di bebek bisa jadi karena spuyer kotor. Coba ganti pelampung.",
+      "category": "mesin",
+      "relevance_score": 0.5,
+      "component_mismatch": true,
+      "issues": [
+        "Question and answer discuss different motor components"
+      ]
+    },
+    {
+      "id": 412,
+      "question": "Mengapa cruiser Kawasaki saya drop?",
+      "answer": "Penyebab drop pada cruiser biasanya karena masalah pada starter. Solusinya adalah periksa dan perbaiki starter.",
+      "category": "kelistrikan",
+      "relevance_score": 0.5,
+      "component_mismatch": true,
+      "issues": [
+        "Question and answer discuss different motor components"
+      ]
+    },
+    {
+      "id": 468,
+      "question": "Mengapa cruiser Kawasaki saya aus?",
+      "answer": "Masalah aus di cruiser bisa jadi karena masalah pada rantai. Coba periksa dan perbaiki rantai.",
+      "category": "transmisi",
+      "relevance_score": 0.5,
+      "component_mismatch": true,
+      "issues": [
+        "Question and answer discuss different motor components"
+      ]
+    },
+    {
+      "id": 531,
+      "question": "Mengapa matic Kawasaki saya bocor?",
+      "answer": "Masalah bocor di matic bisa jadi karena masalah pada rangka. Coba periksa dan perbaiki rangka.",
+      "category": "body_rangka",
+      "relevance_score": 0.5,
+      "component_mismatch": true,
+      "issues": [
+        "Question and answer discuss different motor components"
+      ]
+    },
+    {
+      "id": 566,
+      "question": "Mengapa touring Kawasaki saya tidak stabil?",
+      "answer": "Penyebab tidak stabil pada touring biasanya karena masalah pada shock belakang. Solusinya adalah periksa dan perbaiki shock belakang.",
+      "category": "suspensi",
+      "relevance_score": 0.6,
+      "component_mismatch": true,
+      "issues": [
+        "Question and answer discuss different motor components"
+      ]
+    }
+  ]
+}
